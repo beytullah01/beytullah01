@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there,I'am Beytullah 👋
 
-<!--
-**beytullah01/beytullah01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me 
+Software Engineer with a proven track record of work in the education management industry and company.
+Analytical Skills, skilled in Software Architecture, Computer Science, JAVA, PHP, JavaScript and Databases.New
+graduate software engineer who wants to work as a full stack or backend developer.
+### Tech I use
 
-Here are some ideas to get you started:
+<img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" width="50" height="50"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png"  width="50" height="50"><img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/mysql/mysql.png" width="50" height="50"><img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" width="50" height="50"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="50" height="50">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beytullah01&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=beytullah01&show_icons=true&theme=gradient) 
